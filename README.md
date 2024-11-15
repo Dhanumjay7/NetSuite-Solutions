@@ -2,7 +2,7 @@
 # 👋 Hi, I’m Manoj Natha (@Manoj7)
 
 - 👀 **I’m interested in:** NetSuite development, SuiteScript, NetSuite Custom Developments and integrations with tools like Celigo and Looker Studio.
-- 🌱 **I’m Expertise in :** Advanced SuiteScript, data migration, and exploring RESTful APIs for better integrations.
+- 🌱 **I’m Expertise in :** Advanced SuiteScript, data migration, Celigo Integration , Custom Solutions, EFT Payment Solutions,ARM, O2C, P2P, Zone Advanced Billing and exploring RESTful APIs for better integrations.
 - 💞️ **I’m looking to collaborate on:** NetSuite automation projects, data migration workflows, and custom integration solutions.
 - 📫 **How to reach me:** [Email](manojnatta740@gmail.com) | [LinkedIn](https://www.linkedin.com/in/manoj-natha-830237233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 😄 **Pronouns:** He/Him
